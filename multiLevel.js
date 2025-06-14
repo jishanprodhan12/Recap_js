@@ -22,17 +22,17 @@ if(age <= baccha || age >= old){
 }
 // 5% discount 
 else if(age >=motaMotiMorobi && age < morobi){
-    let dicsount = price * 5 / 100 ;
-    let payPrice = price - dicsount ;
-    console.log("discount 5% a hoilo : "+dicsount);
+    let discount = price * 5 / 100 ;
+    let payPrice = price - discount ;
+    console.log("discount 5% a hoilo : "+discount);
     console.log("biriany er dam : "+payPrice+" tk");
     
 }
 // 10% discount 
 else if(age >= morobi && age < old){
-    let dicsount = price * 10 / 100 ;
-    let payPrice = price - dicsount ;
-    console.log("discount 10% a hoilo : "+dicsount);
+    let discount = price * 10 / 100 ;
+    let payPrice = price - discount ;
+    console.log("discount 10% a hoilo : "+discount);
     console.log("biriany er dam : "+payPrice+" tk");
 }
 else {
