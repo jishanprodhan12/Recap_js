@@ -1,3 +1,10 @@
+/**
+ * ===> biriany er dam hoilo 500 
+ * 1. jodi baccha hoy taile biriany free 
+ * 2. jodi motaMotiMorobi hoy taile 5% discount 
+ * 3. jodi morobi hoy taile 10% discount 
+ * 4. jodi old person hoy taile free 
+ */
 let age = 18 ;
 let price = 500 ;
 const  baccha = 12 ;
