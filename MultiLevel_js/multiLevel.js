@@ -38,3 +38,4 @@ else if(age >= morobi && age < old){
 else {
     console.log('biriany er dam '+price+' tk');
 }
+
