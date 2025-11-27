@@ -50,3 +50,6 @@ const SR_Travels =new Bus('SR Travels',14050,36,6,'Gaibandha to Dhaka',780)
 console.table(Orin);
 console.table(Al_Hamra);
 console.table(SR_Travels);
+const DrumTruck =new Truck('Drum tauck', 42500,3 ,8,6000 )
+const result = DrumTruck.carry()
+console.log(result)
